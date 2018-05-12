@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '26225'
     url: http://www.gutenberg.org/2009/agents/26225
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24076#Vegetable-Dyes--Being-a-Book-of-Recipes-and-Other-Information-Useful-to-the-Dyer
 gutenberg_bookshelf:
 - Crafts
 - Technology
