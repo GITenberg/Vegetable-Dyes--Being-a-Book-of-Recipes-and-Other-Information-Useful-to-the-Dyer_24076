@@ -1,0 +1,34 @@
+_repo: Vegetable-Dyes--Being-a-Book-of-Recipes-and-Other-Information-Useful-to-the-Dyer_24076
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mairet, Ethel
+    aliases:
+    - Partridge, Ethel Mary
+    - Mairet, Ethel M.
+    birthdate: 1872
+    deathdate: 1952
+    gutenberg_agent_id: '26225'
+    url: http://www.gutenberg.org/2009/agents/26225
+description: ''
+gutenberg_bookshelf:
+- Crafts
+- Technology
+gutenberg_issued: '2007-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24076'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dye plants'
+- !lcsh 'Dyes and dyeing'
+- !lcc 'TP'
+title: 'Vegetable Dyes: Being a Book of Recipes and Other Information Useful to the
+  Dyer'
+url: http://www.gutenberg.org/ebooks/24076
